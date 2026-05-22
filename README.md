@@ -54,7 +54,7 @@ The system provides separate modules for students and teachers to perform differ
 ▶️ How to Run the Project
 
 1. Clone the repository:
-`git clone https://github.com/your-username/your-repo-name.git`
+`git clone https://github.com/Sivaponnuvel/School_Administration`
 
 2. Install required libraries:
 `pip install streamlit mysql-connector-python pandas streamlit-option-menu tabulate`
