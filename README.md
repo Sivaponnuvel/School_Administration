@@ -64,7 +64,7 @@ The system provides separate modules for students and teachers to perform differ
 * Create required tables
 
 4. Run the application:
-`streamlit run app.py`
+`streamlit run school_administration.py`
 
 ---
 
