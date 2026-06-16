@@ -1,6 +1,6 @@
-#🎓 School Administration System
+# 🎓 School Administration System
 
-##📌 Project Description
+## 📌 Project Description
 
 This is a School Administration System built using **Python, Streamlit, and MySQL**.
 It helps manage student and teacher data with authentication, department selection, and database operations.
@@ -9,27 +9,27 @@ The system provides separate modules for students and teachers to perform differ
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
-###👨‍🎓 Student Module
+### 👨‍🎓 Student Module
 * Student Signup & Login
 * Store student details in MySQL database
 * Select Department & Section
 * View Student Details
 * Update (Change) Department
 
-###👩‍🏫 Teacher Module
+### 👩‍🏫 Teacher Module
 * Teacher Signup & Login
 * View Teacher Details
 * View All Student Details
 
-###🏠 Home Page
+### 🏠 Home Page
 * School introduction
 * Highlights and achievements display
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Streamlit
@@ -39,7 +39,7 @@ The system provides separate modules for students and teachers to perform differ
 
 ---
 
-##🗄️ Database Used
+## 🗄️ Database Used
 
 * MySQL Database (`school_administration`)
 * Tables:
@@ -51,7 +51,7 @@ The system provides separate modules for students and teachers to perform differ
 
 ---
 
-##▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 1. Clone the repository:
 `git clone https://github.com/Sivaponnuvel/School_Administration`
@@ -68,7 +68,7 @@ The system provides separate modules for students and teachers to perform differ
 
 ---
 
-##🔐 Key Functionalities
+## 🔐 Key Functionalities
 
 * User authentication (Student & Teacher login)
 * Database connectivity using MySQL
@@ -78,7 +78,7 @@ The system provides separate modules for students and teachers to perform differ
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 * Add password encryption 🔒
 * Add delete functionality
@@ -87,11 +87,11 @@ The system provides separate modules for students and teachers to perform differ
 
 ---
 
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 
 **Sivaponnuvel S**
 
 ---
 
-##⭐ Support
+## ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
